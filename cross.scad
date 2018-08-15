@@ -1,3 +1,3 @@
-cube([2, 2, 40], center=true);
+cube([2, 2, 40]);
 
-cube([40, 2, 2], center=true);
+cube([40, 2, 2]);
